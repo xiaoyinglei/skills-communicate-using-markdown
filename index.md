@@ -5,3 +5,6 @@ fjwjkwnfkjawnfkj
 git init
 print("hello,wordl")
 
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+var myVar = "Hello, world!";
